@@ -1,0 +1,13 @@
+:root:root {
+  --van-nav-bar-arrow-size: 24px;
+  --van-nav-bar-icon-color: #404040;
+  --van-toast-text-color: white;
+}
+.van-toast {
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  min-width: 100px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
